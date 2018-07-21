@@ -6,11 +6,11 @@
 * add campgrounds page that lists all campgrounds
 * each campground has a name and image
 
-### Layout and Basic Styling:
+### Layout and Basic Styling
 * create basic header and footer partials
 * add bootstrap
 
-### Create New Campgrounds:
+### Create New Campgrounds
 * setup new campground POST route
 * add body-parser
 * setup route to show form
