@@ -1,6 +1,6 @@
  All commits at https://github.com/mandapie/UDemy-The-Web-Developer-Bootcamp/tree/master/YelpCamp
 
-# Yelp Camp Workflow
+# Yelp Camp Work Progress
 
 ## V1
 ### Basic Setup
